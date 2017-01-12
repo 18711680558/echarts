@@ -1,0 +1,27 @@
+{
+    "count" : 5,
+    "items" : [{
+        "name" : "iphone7",
+        "type" : "苹果手机",
+        "Price" : "5888"
+ },{
+        "name" : "华为荣耀7",
+        "type" : "华为手机",
+        "Price" : "2988"
+ },{
+        "name" : "OPPO R9s",
+        "type" : "OPPO手机",
+        "Price" : "2858"
+     
+ },{
+        "name" : "三星V7",
+        "type" : "三星手机",
+        "Price" : "3858"
+     
+ },{
+        "name" : "小米note7",
+        "type" : "小米手机",
+        "Price" : "2988"
+     
+  }]
+}
